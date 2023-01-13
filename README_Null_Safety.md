@@ -1,5 +1,5 @@
 # Null Safety in Kotlin
-###### https://kotlinlang.org/docs/null-safety.html#nullable-types-and-non-null-types
+###### https://kotlinlang.org/docs/null-safety.html
 
 To quote the link above, "_Kotlin's type system is aimed at eliminating the danger of null references, also known as The Billion Dollar Mistake._"
 
